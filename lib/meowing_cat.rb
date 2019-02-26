@@ -5,3 +5,6 @@ class Cat
   
   def initialize
   end
+  
+  def name=(name)
+    @name = @name

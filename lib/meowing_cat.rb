@@ -22,3 +22,5 @@ class Cat
     @meow
   end
 end
+
+puts "meow!"

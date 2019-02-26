@@ -23,5 +23,3 @@ class Cat
     puts "meow!"
   end
 end
-
-puts "meow!"
